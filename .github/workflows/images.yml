@@ -12,7 +12,8 @@ jobs:
   board_matrix:
     strategy:
       matrix:
-        board: [bcm2712, bcm2711]
+        # board: [bcm2712, bcm2711]
+        board: [bcm2712]
     runs-on: ubuntu-24.04
     steps:
     - name: Install toolchain

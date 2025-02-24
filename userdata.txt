@@ -1,6 +1,6 @@
-NAME="Expatria"
-USERNAME="expatria"
-PASSWORD="expatria"
+NAME="linuxcnc"
+USERNAME="pi"
+PASSWORD="fu.123"
 ROOTPASSWD="0"
 
 ### LINUX KERNEL
@@ -35,13 +35,13 @@ CORES=`nproc`
 CFLAGS=""
 
 ### WHOAMI AND HOST
-KBUSER="expatria"
-KBHOST="flexi-pi"
+KBUSER="pi"
+KBHOST="linuxcnc"
 
 ### LOCALES TIMEZONE AND NAMESERVERS
 LOCALE="en_US.UTF-8"
 LOCALE_LC_ALL="C.UTF-8"
-TIMEZONE="America/Vancouver"
+TIMEZONE="Europe/Berlin"
 NAMESERVER1="8.8.8.8"
 NAMESERVER2="8.8.4.4"
 
