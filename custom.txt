@@ -11,7 +11,7 @@ FSTYPE="ext4"
 SHRINK="true"
 
 # Hostname
-HOSTNAME="raspberrypi"
+HOSTNAME="linuxcnc"
 
 # Branding: true false
 BRANDING="false"
